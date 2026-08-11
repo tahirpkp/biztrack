@@ -141,43 +141,44 @@ lib/
 └── widgets/
     ├── app_drawer.dart
     └── pop_scope_compat.dart
-
+```
 The project structure separates models, screens, providers, utilities, and reusable widgets to make the application easier to maintain and extend.
 
-📱 App Screenshots
 
-Dashboard
+## 📱 App Screenshots
+
+### Dashboard
 The BizTrack dashboard provides a quick overview of daily sales, expenses, net profit, receivables, and recent sales.
 
 ![BizTrack Dashboard](screenshots/dashboard.jpg)
 
-Customers
+### Customers
 Manage customers, phone numbers, ledger information, outstanding balances, and customer communication.
 
 ![BizTrack Customers](screenshots/customers.jpg)
 
-Products
+### Products
 Manage products, prices, and available quantities from a simple product management interface.
 
 ![BizTrack Products](screenshots/products.jpg)
 
-New Sale
+### New Sale
 Create sales by selecting customers, adding products, entering quantities, and recording payment amounts.
 
 ![BizTrack New Sale](screenshots/new-sale.jpg)
 
-Expenses
+### Expenses
 Record and manage business expenses with categories and amounts.
 
 ![BizTrack Expenses](screenshots/expenses.jpg)
 
-Reports
+### Reports
 View sales, expenses, profit, and receivables within a selected date range and export reports to CSV.
 
 ![BizTrack Reports](screenshots/reports.jpg)
 
-🚀 Getting Started
-Prerequisites
+## 🚀 Getting Started
+## Prerequisites
 
 Before running the project, make sure you have:
 
@@ -186,7 +187,8 @@ Dart SDK
 Android Studio or another Flutter-compatible development environment
 Android SDK
 A physical Android device or Android emulator
-Clone the repository
+### Clone the repository
+```bash
 git clone https://github.com/tahirpkp/biztrack.git
 Navigate to the project
 cd biztrack
@@ -194,7 +196,8 @@ Install dependencies
 flutter pub get
 Run the application
 flutter run
-📦 Build APK
+
+## 📦 Build APK
 
 To create a release APK:
 
