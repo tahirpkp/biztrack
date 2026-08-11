@@ -82,6 +82,21 @@ The application includes WhatsApp-related functionality to make customer communi
 - User-friendly interface
 - Consistent UI across application screens
 
+## 📦 Download APK
+
+Want to try BizTrack?
+
+Download the latest Android APK from the GitHub Release:
+
+👉 **[Download BizTrack APK](https://github.com/tahirpkp/biztrack/releases/latest)**
+
+### Installation
+
+1. Download the APK on your Android device.
+2. Open the downloaded APK.
+3. Allow installation from this source if Android asks for permission.
+4. Install and launch BizTrack.
+
 ---
 
 ## 🛠️ Technology Stack
