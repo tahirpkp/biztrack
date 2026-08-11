@@ -144,33 +144,37 @@ lib/
 
 The project structure separates models, screens, providers, utilities, and reusable widgets to make the application easier to maintain and extend.
 
-📸 Screenshots
-
-Screenshots of the application will be added here to demonstrate the user interface and major features.
+📱 App Screenshots
 
 Dashboard
+The BizTrack dashboard provides a quick overview of daily sales, expenses, net profit, receivables, and recent sales.
 
-Screenshot coming soon
+![BizTrack Dashboard](screenshots/dashboard.jpg)
 
 Customers
+Manage customers, phone numbers, ledger information, outstanding balances, and customer communication.
 
-Screenshot coming soon
-
-Sales
-
-Screenshot coming soon
+![BizTrack Customers](screenshots/customers.jpg)
 
 Products
+Manage products, prices, and available quantities from a simple product management interface.
 
-Screenshot coming soon
+![BizTrack Products](screenshots/products.jpg)
+
+New Sale
+Create sales by selecting customers, adding products, entering quantities, and recording payment amounts.
+
+![BizTrack New Sale](screenshots/new-sale.jpg)
 
 Expenses
+Record and manage business expenses with categories and amounts.
 
-Screenshot coming soon
+![BizTrack Expenses](screenshots/expenses.jpg)
 
 Reports
+View sales, expenses, profit, and receivables within a selected date range and export reports to CSV.
 
-Screenshot coming soon
+![BizTrack Reports](screenshots/reports.jpg)
 
 🚀 Getting Started
 Prerequisites
