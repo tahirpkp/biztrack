@@ -190,14 +190,20 @@ A physical Android device or Android emulator
 ### Clone the repository
 ```bash
 git clone https://github.com/tahirpkp/biztrack.git
+
 Navigate to the project
+
 cd biztrack
+
 Install dependencies
+
 flutter pub get
+
 Run the application
+
 flutter run
 
-## 📦 Build APK
+📦 Build APK
 
 To create a release APK:
 
@@ -205,11 +211,14 @@ flutter build apk --release
 
 The generated APK can then be found in the Flutter build output directory.
 
-🔄 Development Workflow
+
+```
+
+## 🔄 Development Workflow
 
 The project uses Git for version control and GitHub for source-code hosting.
 
-Typical development workflow:
+### Typical development workflow:
 
 Make changes
      ↓
@@ -222,9 +231,10 @@ git add .
 git commit
      ↓
 git push
-🎯 Project Goals
 
-The main goals of BizTrack are to provide:
+## 🎯 Project Goals
+
+### The main goals of BizTrack are to provide:
 
 A simple business management experience
 Organized customer and transaction records
@@ -233,9 +243,10 @@ Expense management
 Business reporting
 Reliable data backup and restoration
 A practical mobile solution for small businesses
-🔮 Future Improvements
 
-Potential future improvements include:
+## 🔮 Future Improvements
+
+### Potential future improvements include:
 
 Additional business reports
 Improved analytics and dashboards
@@ -244,17 +255,18 @@ More customization options
 Additional platform support
 Improved backup and migration capabilities
 Additional productivity features based on user feedback
-👨‍💻 Developer
+
+## 👨‍💻 Developer
 
 Tahir Khan
 
 Flutter Developer focused on building practical, user-focused mobile applications.
 
-GitHub:
+### GitHub:
 
 https://github.com/tahirpkp
 
-📄 License
+## 📄 License
 
 This project is currently maintained as a portfolio and development project.
 
